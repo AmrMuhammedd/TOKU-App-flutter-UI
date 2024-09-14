@@ -10,7 +10,7 @@ class categ_text extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: Color(0xff2196f3),
+      color: Color(number.color),
       height: 100,
       child: Row(
         children: [
